@@ -1,2 +1,5 @@
 # resources
-PASS Resources
+PASS Session Resources
+
+Work in Progress...
+Migrating PASS Resources to Github.
