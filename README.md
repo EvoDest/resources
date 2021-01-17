@@ -1,5 +1,4 @@
 # resources
 PASS Session Resources
 
-Work in Progress...
-Migrating PASS Resources to Github.
+Work in progress...migrating PASS resources to Github.
