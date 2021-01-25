@@ -9,3 +9,11 @@
 ehthumbs.db
 Thumbs.db
 **/.xcodeproj
+
+# Code::Blocks #
+######################
+bin
+obj
+*.cbp
+*.depend
+*.layout
