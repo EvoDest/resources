@@ -1,3 +1,7 @@
+//  smart_pointer_example.cpp
+//  Description: Demonstrates smart pointers
+//  Created by Luke Ng on 23/1/21.
+//  Copyright © 2021 Luke Ng. All rights reserved.
 
 #include <memory>
 #include <iostream>
